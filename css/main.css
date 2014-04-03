@@ -1,0 +1,35 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, STHeiTi, "Microsoft YaHei", sans-serif;
+    color: #737373;
+    background: #f0f0f0;
+}
+
+.container {
+    max-width: 640px;
+    _width: 640px; /* IE6 */
+    margin: 0 auto;
+}
+
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ol li {
+    margin: 10px 0;
+}
+
+a {
+    color: #737373;
+    text-decoration: none;
+}
+
+name {
+    font-size: 20px;
+    display: block;
+    color: #666;
+}
+
+desc {
+    color: #999;
+}
