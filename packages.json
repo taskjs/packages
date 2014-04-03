@@ -1,0 +1,78 @@
+[
+	{
+		"name": "task-glob",
+		"description": "Read files with glob"
+	},
+	{
+		"name": "task-request",
+		"description": "Read files with request"
+	},
+	{
+		"name": "task-copy",
+		"description": "Copy files and folders"
+	},
+	{
+		"name": "task-clean",
+		"description": "Clean files and folders"
+	},
+	{
+		"name": "task-combine",
+		"description": "Combine text files"
+	},
+	{
+		"name": "task-uglifyjs",
+		"description": "Minify files with uglifyjs"
+	},
+	{
+		"name": "task-cleancss",
+		"description": "Minify CSS files with CleanCSS"
+	},
+	{
+		"name": "task-replace",
+		"description": "Replace text in files"
+	},
+	{
+		"name": "task-rev",
+		"description": "File revisioning"
+	},
+	{
+		"name": "task-svgo",
+		"description": "Minify SVG files with svgo"
+	},
+	{
+		"name": "task-requirejs",
+		"description": "Optimize RequireJS projects using r.js"
+	},
+	{
+		"name": "task-autoprefixer",
+		"description": "Add vendor prefixes to CSS rules with autoprefixer"
+	},
+	{
+		"name": "task-htmlminifier",
+		"description": "Minify HTML files with html-minifier"
+	},
+	{
+		"name": "task-compass",
+		"description": "Compile Sass to CSS using Compass"
+	},
+	{
+		"name": "task-coffee",
+		"description": "Compile CoffeeScript files to JavaScript"
+	},
+	{
+		"name": "task-less",
+		"description": "Compile LESS files to CSS"
+	},
+	{
+		"name": "task-karma",
+		"description": "Test runner with karma"
+	},
+	{
+		"name": "task-jshint",
+		"description": "Validate files with JSHint"
+	},
+	{
+		"name": "task-exec",
+		"description": "Execute system commands"
+	}
+]
