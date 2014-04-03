@@ -1,5 +1,5 @@
 $.ajax({
-    url: '/packages.json',
+    url: 'packages.json',
     dataType: 'json',
     success: function( data ) {
         var packages = [];
