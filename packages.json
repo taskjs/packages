@@ -1,4 +1,12 @@
 [
+    {
+	"name": "task-reader",
+	"description": "Read files"
+    },
+    {
+	"name": "task-writer",
+	"description": "Write files"
+    },
 	{
 		"name": "task-glob",
 		"description": "Read files with glob"
@@ -71,6 +79,10 @@
 		"name": "task-jshint",
 		"description": "Validate files with JSHint"
 	},
+    {
+	"name": "task-eslint",
+	"description": "Validate files with ESLint"
+    },
 	{
 		"name": "task-exec",
 		"description": "Execute system commands"
