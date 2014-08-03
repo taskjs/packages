@@ -86,5 +86,9 @@
 	{
 		"name": "task-exec",
 		"description": "Execute system commands"
+	},
+	{
+		"name": "task-open",
+		"description": "Open a file or url in the user's preferred application"
 	}
 ]
